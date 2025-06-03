@@ -1,0 +1,18 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android/Projects/currency-converter/app/src/main/res/layout/activity_converter.xml" value="0.75" />
+        <entry key="app/src/main/res/drawable/bg_blue_button.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/bg_circular_with_shadow.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/bg_search_view.xml" value="0.186" />
+        <entry key="app/src/main/res/layout/activity_converter.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/activity_currencies.xml" value="0.4241139961714199" />
+        <entry key="app/src/main/res/layout/item_currency.xml" value="0.20643363728470113" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK" />
+</project>
